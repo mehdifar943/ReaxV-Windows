@@ -24,8 +24,8 @@
 |---------|-------------|
 | **🤖 Automatic Molecule Recognition** | Intelligent detection and tracking of chemical species across simulation frames |
 | **📊 Complete 3D Structural Analysis** | Multiple rendering modes with bond length, angle, and dihedral measurements |
-| **⚡ ReaxFF-Specific Tools** | Direct support for LAMMPS trajectory files (.lammpstrj, .dump) with bond order display |
-| **💾 Export Capabilities** | High-resolution image export (PNG, JPG) and data export (CSV, XYZ, PDB) |
+| **⚡ ReaxFF-Specific Tools** | Direct support for LAMMPS trajectory files (.lammpstrj) with bond order display |
+| **💾 Export Capabilities** | High-resolution image export (PNG) and data export (XYZ, PDB) |
 | **🎯 Reaction Network Analysis** | Automatic detection of reaction events and network graph generation |
 
 ---
@@ -33,7 +33,7 @@
 ## 🚀 Quick Installation
 
 ### Download & Install:
-1. **Download the latest release** from the [Releases section](https://github.com/mehdifar943/ReaxVisual/releases)
+1. **Download the latest release** from the [Releases section](https://github.com/mehdifar943/ReaxV-Windows)
 2. **Run `ReaxVisual_1.0.exe`** with administrator privileges
 3. **Follow the installation wizard** (default installation takes 2-3 minutes)
 4. **Launch** from Start Menu or Desktop shortcut
